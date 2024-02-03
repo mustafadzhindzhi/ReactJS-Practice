@@ -9,4 +9,3 @@ const CardDeal = () => {
 }
 
 export default CardDeal
-CarDeal
